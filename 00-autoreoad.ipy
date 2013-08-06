@@ -1,4 +1,4 @@
-# put it at: $HOME/.config/ipython/startup
+# put it at: $HOME/.config/ipython/profile_default/startup
 
 %load_ext autoreload
 %autoreload 2
